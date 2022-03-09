@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "refab_utils:block/autocrafter_top",
+    "bottom": "refab_utils:block/autocrafter_bottom",
+    "side": "refab_utils:block/autocrafter_side"
+  }
+}
